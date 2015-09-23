@@ -9,7 +9,7 @@
 	<key>keyEquivalent</key>
 	<string>^~J</string>
 	<key>name</key>
-	<string>Javascript (React)</string>
+	<string>JavaScript (React)</string>
 	<key>patterns</key>
 	<array>
 		<dict>
